@@ -1,0 +1,33 @@
+_repo: Psychotherapy_36450
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Walsh, James J. (James Joseph)
+    aliases:
+    - Walsh, James Joseph
+    - Walsh, J. J. (James Joseph)
+    birthdate: 1865
+    deathdate: 1942
+    gutenberg_agent_id: '36672'
+    url: http://www.gutenberg.org/2009/agents/36672
+    wikipedia: http://en.wikipedia.org/wiki/James_Joseph_Walsh
+description: ''
+gutenberg_issued: '2011-06-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36450'
+  lccn: '12012149'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RM'
+- !lcsh 'Mental healing'
+title: "Psychotherapy\r\nIncluding the History of the Use of Mental Influence, Directly\
+  \ and Indirectly, in Healing and the Principles for the Application of Energies\
+  \ Derived from the Mind to the Treatment of Disease"
+url: http://www.gutenberg.org/ebooks/36450
